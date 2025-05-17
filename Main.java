@@ -1,5 +1,3 @@
-//Stylianos Somatopoulos/icsd21061
-//Kyriaki-Maria Solmatopoulou/icsd19206
 import java.io.FileNotFoundException;
 import java.io.IOException;
 
